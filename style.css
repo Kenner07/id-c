@@ -73,6 +73,15 @@ body, html {
   height: auto;
 }
 
+.texto-banner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+}
+
 .texto-banner p{
   font-family:'Poppins'; 
   text-align: center;
